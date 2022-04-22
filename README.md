@@ -58,6 +58,7 @@
     - KPI
     - Escaped defects
 
+---
 ## Jira Ground Zero
 What to do if you had Jira (cloud version)
 
@@ -80,6 +81,7 @@ What to do if you had Jira (cloud version)
     - Note that most of the permissions will have Project Role with “atlassian-addons-project-access”, do not remove or change anything regarding this project role as it is a default project role. It might cause system bugs.
     - Jira Settings > Issues > Issue Attributes > Permission Schemes
 
+---
 ## Confluence Ground Zero
 What to do if you have Confluence (cloud version)
 
