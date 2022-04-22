@@ -6,6 +6,7 @@
   - [Sprint Retrospective](#sprint-retrospective)
 - [Bi-Weekly Update](#bi-weekly-update)
 - [Jira Ground Zero](#jira-ground-zero)
+- [Confluence Ground Zero](#confluence-ground-zero)
 - [References](#references)
 
 ---
@@ -58,7 +59,27 @@
     - Escaped defects
 
 ## Jira Ground Zero
+What to do if you had Jira from scratch (cloud version)
+1. Audit log retention period extension
+    - Jira Settings > Troubleshooting and Support > Audit Log > Audit Log Settings > Retention Period
+2. Look and feel 
+    - Jira Settings > System > User Interface > Look and Feel > Logo
+    - Jira Settings > System > User Interface > Look and Feel > Navigation Colors
+4. Attachment file size limit
+    - Jira Settings > System > Advanced > Attachments > Attachment Size
+6. Jira software configuration – parallel sprints
+    - This is the setup to allow parallel sprints in the case that we have a sprint that has yet to be closed due to conflict (such as code conflict, requirement conflict, dropping the sprint) while we need to start a new sprint.
+    - Jira Settings > Products > Jira Software Configuration > Features > Parallel Sprints
+8. Project workflow creation
+    - Jira Settings > Issues > Workflows
+    - Jira Settings > Issues > Workflow schemes
+9. Custom fields creation
+    - Jira Settings > Issues > Fields > Custom Fields
+11. Permission scheme creation
+    - Note that most of the permissions will have Project Role with “atlassian-addons-project-access”, do not remove or change anything regarding this project role as it is a default project role. It might cause system bugs.
+    - Jira Settings > Issues > Issue Attributes > Permission Schemes
 
+## Confluence Ground Zero
 
 ## References
 1. https://scrumguides.org/scrum-guide.html
