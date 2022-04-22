@@ -13,6 +13,8 @@
 ## Scrum Events
 
 ### Sprint Planning
+_The agenda for the meeting_
+
 1. Sprint goal - Business and technical goal for the sprint. Allows us to negotiate the scope of the sprint in case we find out that something is more complex than expected during the sprint
 2. Sprint backlog - Measure user stories with Fibonacci sequence
 3. Team commitment - Clarify if anyone is unavailable during the sprint . Is someone on holiday? Are there public holidays during the sprint?
@@ -20,6 +22,8 @@
 5.	Individual capacity - Developers and QA will be full time, meanwhile leads will be half-time operational work
 
 ### Daily Scrum
+_The agenda for the meeting_
+
 1.	What did I do yesterday?
 2.	What will I do today?
 3.	What will I achieve today?
@@ -29,12 +33,16 @@
     - Target resolution date
 
 ### Sprint Review
+_The agenda for the meeting_
+
 1.	Informal session between scrum team, PO and/or stakeholders to show on the work completed to ensure Sprint Goal is met
 2.	State what will (and what will not) be demonstrated
 3.	Scrum team to demo new functionality
 4.	Product Owner and/or stakeholders to provide feedback (if any) 
 
 ### Sprint Retrospective
+_The agenda for the meeting_
+
 1. **Loved** - List what you loved about your work
 2. **Longed** for - List what you wished you had while working
 3. **Loathed** - List what you didn't like about your work
@@ -43,6 +51,8 @@
 
 ---
 ## Bi-Weekly Update
+_The agenda for the meeting_
+
 1. Participants list
 2. Action items
 3. Decisions
