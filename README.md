@@ -1,4 +1,6 @@
-# Ayam Scrum Master 
+# Scrum Master Notes
+Setting the agendas for the meetings, what to do if jira/atlassian is not there, and other stuffs needed to do as SM
+
 - [Scrum Events](#scrum-events)
   - [Sprint Planning](#sprint-planning)
   - [Daily Scrum](#daily-scrum)
