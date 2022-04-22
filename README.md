@@ -5,8 +5,9 @@
   - [Sprint Review](#sprint-review)
   - [Sprint Retrospective](#sprint-retrospective)
 - [Bi-Weekly Update](#bi-weekly-update)
-- [Jira Ground Zero](#jira-ground-zero)
-- [Confluence Ground Zero](#confluence-ground-zero)
+- [Atlassian Setup](#atlassian-setup)
+  - [Jira Ground Zero](#jira-ground-zero)
+  - [Confluence Ground Zero](#confluence-ground-zero)
 - [References](#references)
 
 ---
@@ -69,7 +70,9 @@ _The agenda for the meeting_
     - Escaped defects
 
 ---
-## Jira Ground Zero
+## Atlassian Setup
+
+### Jira Ground Zero
 What to do if you had Jira (cloud version)
 
 1. Audit log retention period 
@@ -92,7 +95,7 @@ What to do if you had Jira (cloud version)
     - Jira Settings > Issues > Issue Attributes > Permission Schemes
 
 ---
-## Confluence Ground Zero
+### Confluence Ground Zero
 What to do if you have Confluence (cloud version)
 
 1. Attachment file size limit
