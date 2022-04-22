@@ -1,4 +1,4 @@
-# Scrum Master Notes
+# Scrum Master 101
 Setting the agendas for the meetings, what to do if jira/atlassian is not there, and other stuffs needed to do as SM
 
 - [Scrum Events](#scrum-events)
