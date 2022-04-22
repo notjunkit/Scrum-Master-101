@@ -75,6 +75,8 @@ _The agenda for the meeting_
 ### Jira Ground Zero
 What to do if you had Jira (cloud version)
 
+
+
 1. Audit log retention period 
     - Jira Settings > Troubleshooting and Support > Audit Log > Audit Log Settings > Retention Period
 2. Look and feel 
@@ -112,10 +114,11 @@ What to do if you have Confluence (cloud version)
 1. https://scrumguides.org/scrum-guide.html
 2. https://cucumber.io/docs/gherkin/
 3. https://www.planitpoker.com/
-4. https://confluence.atlassian.com/alldoc/
-5. https://support.atlassian.com/jira-cloud-administration/resources/
-6. https://developer.atlassian.com/cloud/
-7. https://confluence.atlassian.com/enterprise/atlassian-enterprise-documentation-587303541.html
-8. https://support.atlassian.com/jira-cloud-administration/docs/manage-project-permissions/
-9. https://support.atlassian.com/jira-cloud-administration/docs/permissions-for-company-managed-projects/#Permissionsforcompanymanagedprojects-data
-10. https://community.atlassian.com/t5/Adaptavist-questions/How-to-make-a-field-required-during-a-workflow-transition/qaq-p/589657
+4. https://www.atlassian.com/git/tutorials/comparing-workflows
+5. https://confluence.atlassian.com/alldoc/
+6. https://support.atlassian.com/jira-cloud-administration/resources/
+7. https://developer.atlassian.com/cloud/
+8. https://confluence.atlassian.com/enterprise/atlassian-enterprise-documentation-587303541.html
+9. https://support.atlassian.com/jira-cloud-administration/docs/manage-project-permissions/
+10. https://support.atlassian.com/jira-cloud-administration/docs/permissions-for-company-managed-projects/#Permissionsforcompanymanagedprojects-data
+11. https://community.atlassian.com/t5/Adaptavist-questions/How-to-make-a-field-required-during-a-workflow-transition/qaq-p/589657
